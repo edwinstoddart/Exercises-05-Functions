@@ -23,6 +23,4 @@ function makeRectangle(width, height) {
 }
 console.log(makeRectangle(7, 3));
 // D. Now, go back and rewrite makeSquare to use makeRectangle.
-
-
-// 
+// Exercise 1: Rectangles Completed!!
